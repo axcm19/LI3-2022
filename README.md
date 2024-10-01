@@ -1,4 +1,4 @@
-# Trabalho Prático LI3 - 2022/2023
+# Laboratórios Informática 3 - 2022/2023
 
 Grupo 26:
 
